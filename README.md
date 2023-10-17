@@ -20,7 +20,7 @@ Foundational Models in ML:
 
 
 Refrences: 
-1. [Python for linear Algebra]{https://timothyprojectgig.github.io/JB_Math_Textbook/Undergrad/Linear/0.html}, 2023, S. Anbouhi
+1. [Python for linear Algebra](https://timothyprojectgig.github.io/JB_Math_Textbook/Undergrad/Linear/0.html), 2023, S. Anbouhi
 2. Linear Algebra and Learning from Data, 2019, G. Strang, .
-3. [MATHEMATICS FOR MACHINE LEARNING]{https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book_printed.pdf}, 2020, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong.
-4. [Linear Algebra and Optimization for Machine Learning]{http://www.charuaggarwal.net/Linear-Algebra-And-Optimization.pdf}, 2021 by Charu C. Aggarwal.
+3. [MATHEMATICS FOR MACHINE LEARNING](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book_printed.pdf), 2020, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong.
+4. [Linear Algebra and Optimization for Machine Learning](http://www.charuaggarwal.net/Linear-Algebra-And-Optimization.pdf), 2021 by Charu C. Aggarwal.
