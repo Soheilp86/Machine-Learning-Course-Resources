@@ -17,3 +17,11 @@ Foundational Models in ML:
 - Regression
 - Neural Network
 - SVD
+
+
+Refrences: 
+1. \hyperlink{https://timothyprojectgig.github.io/JB_Math_Textbook/Undergrad/Linear/0.html}{Python for linear Algebra}, 2023, S. Anbouhi
+2. Linear Algebra and Learning from Data, 2019, G. Strang, .
+3. \hyperlink{https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book_printed.pdf}{MATHEMATICS FOR MACHINE LEARNING}, 2020, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong.
+4. \hyperlink{http://www.charuaggarwal.net/Linear-Algebra-And-Optimization.pdf}{Linear Algebra and Optimization for Machine Learning}, 2021 by Charu C. Aggarwal.
+5. \hyperlink{https://www.deeplearningbook.org}{Deep Learning}, 2016 Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
