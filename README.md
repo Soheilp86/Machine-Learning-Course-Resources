@@ -24,7 +24,10 @@ Refrences:
 2. Linear Algebra and Learning from Data, 2019, G. Strang, .
 3. [MATHEMATICS FOR MACHINE LEARNING](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book_printed.pdf), 2020, Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong.
 4. [Linear Algebra and Optimization for Machine Learning](http://www.charuaggarwal.net/Linear-Algebra-And-Optimization.pdf), 2021 by Charu C. Aggarwal.
-5. Linear Algebra and its Applications. 5th ed., Pearson., 2016, Lay, David, et al. 
+5. Linear Algebra and its Applications. 5th ed., Pearson., 2016, Lay, David, et al.
+6. [NEURAL NETWORKS AND DEEP LEARNING: A TEXTBOOK (Second Edition)](http://www.charuaggarwal.net/neural.htm), 2017 Charu C. Aggarwal.
+
+
 
 
 
