@@ -15,7 +15,7 @@ Linear Algebra:
   
 - [Singular Value Decomposition](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/7-SVD.ipynb)
   
--[The best rank-k approximation](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/.ipynb_checkpoints/8-%20Low%20rank%20approximation-checkpoint.ipynb)
+- [The best rank-k approximation](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/.ipynb_checkpoints/8-%20Low%20rank%20approximation-checkpoint.ipynb)
 
 Multivariable Calculus:
 - Tensor Calculus
