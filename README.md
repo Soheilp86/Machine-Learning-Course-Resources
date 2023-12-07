@@ -5,9 +5,9 @@ Topics include:
 
 Linear Algebra:
 - Matrix Decomposition (LU factorization, QR-factorization, Diagonalization)
-- Least Square problem
-- Singular Value Decomposition and its applications
-
+- [Least Square problem](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/5-%20Least-Squares%20Problems-Class.ipynb)
+- [Singular Value Decomposition](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/7-SVD.ipynb)
+-[The best rank-k approximation](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/.ipynb_checkpoints/8-%20Low%20rank%20approximation-checkpoint.ipynb)
 Multivariable Calculus:
 - Tensor Calculus
 - Backpropagation and Automatic Differentiation
