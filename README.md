@@ -6,7 +6,7 @@ Topics include:
 Linear Algebra:
 - [LU factorization](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/1-%20LU-Factorization.ipynb)
 
-- [Diagonalization(https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/2-Diagonalization.ipynb) 
+- [Diagonalization](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/2-Diagonalization.ipynb) 
 
 - [The Gram–Schmidt and QR-Factorization](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/4-%20The%20Gram%E2%80%93Schmidt%20and%20QR-Factorization.ipynb)
   
