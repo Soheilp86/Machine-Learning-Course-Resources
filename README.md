@@ -18,6 +18,9 @@ Linear Algebra:
 - [The best rank-k approximation](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/8.%20Low%20rank%20approximation_complete.ipynb)
 
 - [Linear Regression](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/6-%20Regression.ipynb)
+- 
+- [Forecasting Baseball Team Wins Based on Run Differential](https://colab.research.google.com/github/Soheilp86/Machine-Learning-Course-Resources/blob/main/SLR.ipynb)
+
 
 Multivariable Calculus:
 - Tensor Calculus
